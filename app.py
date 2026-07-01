@@ -11,6 +11,10 @@ st.set_page_config(
     layout="wide"
 )
 
+st.caption(
+    "Developed by Tanvi Dwivedi | Interactive visualization for MPI communication benchmark analysis"
+)
+
 # =====================================
 # Load Data
 # =====================================
